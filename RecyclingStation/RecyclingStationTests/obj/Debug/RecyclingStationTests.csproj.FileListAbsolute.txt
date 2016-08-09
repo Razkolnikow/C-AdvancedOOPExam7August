@@ -1,0 +1,13 @@
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\RecyclingStationTests.dll
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\RecyclingStationTests.pdb
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\RecyclingStation.exe
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\RecyclingStation.pdb
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\obj\Debug\RecyclingStationTests.csprojResolveAssemblyReference.cache
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\obj\Debug\RecyclingStationTests.dll
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\obj\Debug\RecyclingStationTests.pdb
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\Castle.Core.dll
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\Moq.dll
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\Castle.Core.xml
+F:\SoftUni\08AdvancedOOPC#\07AugustExam\Recycling Station_Скелет\RecyclingStation\RecyclingStationTests\bin\Debug\Moq.xml
